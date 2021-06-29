@@ -8,9 +8,8 @@
 
 <p align="center">
 <a href="https://github.com/skaurl">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaurl&show_icons=true&theme=dark&locale=en&layout=compact" alt="skaurl" align="center"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=skaurl&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="skaurl" align="center"/>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=skaurl&theme=dark" alt="skaurl" align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skaurl&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="skaurl" align="center"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=skaurl&theme=dark" alt="skaurl" align="center"/>
 </a>
 </p>
 
