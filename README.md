@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&color=auto&section=header&reversal=false&height=200&text=Kim%20NamHyeok&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?&type=waving&section=header&text=Kim%20NamHyeok&animation=fadeIn)
 
 # Hi 👋, I'm NamHyeok Kim
 
@@ -18,25 +18,10 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 
+![header](https://capsule-render.vercel.app/api?&type=waving&section=footer)
 
 <p align="right">
   <a href="https://github.com/skaurl">
     <img height="15em" src="https://komarev.com/ghpvc/?username=skaurl&label=Views&color=0e75b6&style=flat" alt="skaurl" />
   </a>
 </p>
-
-
-<!--
-**skaurl/skaurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
