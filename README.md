@@ -4,6 +4,10 @@
 
 ## 👨🏻‍💻 About Me
 
+- I'm Data Analyst & AI Engineer.
+- I aim for developers who are constantly growing in the spirit of PLUS ULTRA.
+- Just give me a call, whatever you want!
+
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -42,7 +46,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="dr_lunars@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-2db400?style=for-the-badge&logo=Naver&logoColor=white"/></a> &nbsp
+  <a href="mailto:dr_lunars@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-2db400?style=for-the-badge&logo=Naver&logoColor=white"/></a> &nbsp
   <a href="https://velog.io/@skaurl" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a> &nbsp
   <a href="https://github.com/skaurl/skaurl/blob/main/Resume/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-8ca1af?style=for-the-badge&logo=Read%20the%20Docs&logoColor=white"/></a> &nbsp
 </p>
@@ -51,6 +55,6 @@
 
 <p align="right">
   <a href="https://github.com/skaurl">
-    <img height="15em" src="https://komarev.com/ghpvc/?username=skaurl&label=Views&color=0e75b6&style=flat" alt="skaurl" />
+    <img src="https://komarev.com/ghpvc/?username=skaurl&label=Views&color=0e75b6&style=flat" alt="skaurl"/>
   </a>
 </p>
