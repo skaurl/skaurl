@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 About Me
 
 - I'm Data Analyst & AI Engineer.
-- I aim for developers who are constantly growing in the spirit of PLUS ULTRA.
+- I aim for developer who is constantly growing in the spirit of PLUS ULTRA.
 - Just give me a call, whatever you want!
 
 ## 🛠 Tech Stack
