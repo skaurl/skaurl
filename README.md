@@ -55,6 +55,6 @@
 
 <p align="right">
   <a href="https://github.com/skaurl">
-    <img src="https://komarev.com/ghpvc/?username=skaurl&label=Views&color=0e75b6&style=flat" alt="skaurl"/>
+    <img src="https://komarev.com/ghpvc/?username=skaurl&label=Views&color=0e75b6&style=flat-square" alt="skaurl"/>
   </a>
 </p>
