@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&section=header&height=200&text=Kim%20NamHyeok&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?&color=B22222&type=waving&section=header&height=200&text=Kim%20NamHyeok&animation=fadeIn)
 
 # Hi 👋, I'm NamHyeok Kim
 
@@ -52,7 +52,7 @@
   <a href="https://github.com/skaurl/skaurl/blob/main/Resume/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-8ca1af?style=for-the-badge&logo=Read%20the%20Docs&logoColor=white"/></a> &nbsp
 </p>
 
-![header](https://capsule-render.vercel.app/api?&type=waving&section=footer)
+![header](https://capsule-render.vercel.app/api?&color=B22222&type=waving&section=footer)
 
 <p align="right">
   <a href="https://github.com/skaurl">
