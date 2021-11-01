@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- I'm Data Analyst & AI Engineer.
+- I'm Data Manager.
 - I aim for developer who is constantly growing in the spirit of PLUS ULTRA.
 - Just give me a call, whatever you want!
 
