@@ -46,7 +46,8 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="mailto:dr_lunars@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-2db400?style=for-the-badge&logo=Naver&logoColor=white"/></a> &nbsp
+  <a href="mailto:dr_lunars@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail_1-2db400?style=for-the-badge&logo=Naver&logoColor=white"/></a> &nbsp
+  <a href="mailto:knkk0807@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Mail_2-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp
   <a href="https://velog.io/@skaurl" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a> &nbsp
   <a href="https://www.kaggle.com/skaurl" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a> &nbsp
   <a href="https://www.linkedin.com/in/skaurl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
